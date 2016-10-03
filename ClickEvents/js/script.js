@@ -415,6 +415,12 @@ var cd = Math.round(Math.random() * 255);
  $( "kb" ).css("background-color", "RGB(" + ad + "," + bd + "," + cd + ")");
 
 
+ var color = ["#FF5F00 ", "orange", "yellow", "blue", "#00F3FF ", "#8BFF00 ", "#AA00E8 ", "white"];
+var random = Math.round(Math.random() * 7);
+$( ".kb" ).css("background-color", color[random]);
+
+
+
 	$('#box1').hover(function() {
 		$(this).addClass("animated" );
 		$(this).addClass("shake" );
