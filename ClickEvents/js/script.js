@@ -1,273 +1,274 @@
 $(document).ready(function() {
 
+
 	var kb=0;
 
 $(".kb").click(function(){
       if (kb==0) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==1) {
-           $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==2) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==3) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==4) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==5) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==6) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==7) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==8) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==9) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==10) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
 
       else if (kb==11) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==12) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==13) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==14) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==15) {
-         $(this).css("background-color", "#ff8c00 ");
+         $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==16) {
-      	$(this).css("background-color", "#ff8c00 ");
+      	$(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          
          kb++;
       }
 
       else if (kb==17) {
-      	$(this).css("background-color", "#ff8c00 ");
+      	$(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          
          kb++;
       }
 
       else if (kb==18) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==19) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==20) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==21) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb=22) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==23) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==24) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==25) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==26) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==27) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
 
       else if (kb==28) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==29) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==30) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==31) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==32) {
-         $(this).css("background-color", "#ff8c00 ");
+         $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==33) {
-      	$(this).css("background-color", "#ff8c00 ");
+      	$(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          
          kb++;
       }
 
       else if (kb==34) {
-      	$(this).css("background-color", "#ff8c00 ");
+      	$(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          
          kb++;
       }
 
       else if (kb==35) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==36) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==37) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==38) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==39) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==40) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==41) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==42) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==43) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==44) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
 
       else if (kb==45) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==46) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==47) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==48) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==49) {
-         $(this).css("background-color", "#ff8c00 ");
+         $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==50) {
-      	$(this).css("background-color", "#ff8c00 ");
+      	$(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          
          kb++;
       }
 
       else if (kb==51) {
-      	$(this).css("background-color", "#ff8c00 ");
+      	$(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          
          kb++;
       }
@@ -275,135 +276,128 @@ $(".kb").click(function(){
 
       
       else if (kb==52) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==53) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==54) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==55) {
-           $(this).css("background-color", "#ff8c00 ");
+           $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
       else if (kb==56) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==57) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==58) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==59) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==60) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
 
       else if (kb==61) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==62) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==63) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==64) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==65) {
-         $(this).css("background-color", "#ff8c00 ");
+         $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==66) {
-      	$(this).css("background-color", "#ff8c00 ");
+      	$(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          
          kb++;
       }
 
       else if (kb==67) {
-      	$(this).css("background-color", "#ff8c00 ");
+      	$(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          
          kb++;
       }
 
       else if (kb==68) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==69) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
 
       else if (kb==70) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
           kb++;
       }
       
 
       else if (kb==71) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==72) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==73) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==74) {
-          $(this).css("background-color", "#ff8c00 ");
+          $(this).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
          kb++;
       }
 
       else if (kb==75) {
-         $(this).css("background-color", "#ff8c00 ");
-         kb++;
+         location.reload();
+         kb=0;
       }
-
-      else if (kb==76) {
-      	$(this).animate({opacity: '.1'}, 1000);
-         
-         kb++;
-      }
-
      
   });
 
@@ -411,17 +405,24 @@ $(".kb").click(function(){
  var ad = Math.round(Math.random() * 255);
 var bd = Math.round(Math.random() * 255);
 var cd = Math.round(Math.random() * 255);
- $( "body" ).css("background-color", "RGB(" + ad + "," + bd + "," + cd + ")");
- $( "kb" ).css("background-color", "RGB(" + ad + "," + bd + "," + cd + ")");
+ $( "body" ).animate({backgroundColor: "RGB(" + ad + "," + bd + "," + cd + ")"}, "600");
 
 
- var color = ["#FF5F00 ", "orange", "yellow", "blue", "#00F3FF ", "#8BFF00 ", "#AA00E8 ", "white"];
+ var color = ["	#7fffd4", "orange", "yellow", "blue", "#00F3FF ", "#8BFF00 ", "#AA00E8 ", "white"];
 var random = Math.round(Math.random() * 7);
 $( ".kb" ).css("background-color", color[random]);
 
+ var color1 = ["#FF5F00 ", "#6495ed", "	#bdb76b", "	#ff1493", "	#fffaf0", "#e6e6fa ", "	#ffa07a ", "#ba55d3"];
+var random1 = Math.round(Math.random() * 7);
 
 
 	$('#box1').hover(function() {
+		$(this).addClass("animated" );
+		$(this).addClass("shake" );
+		$(this).addClass("infinite" );
+	});
+
+	$('#box2').hover(function() {
 		$(this).addClass("animated" );
 		$(this).addClass("shake" );
 		$(this).addClass("infinite" );
